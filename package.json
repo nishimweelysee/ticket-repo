@@ -71,6 +71,7 @@
     "style-loader": "^3.0.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.4",
     "tailwindcss-debug-screens": "^2.0.0",
+    "toastify-js": "1.11.2",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "url-loader": "^4.1.1",
     "uuid": "^3.4.0",
